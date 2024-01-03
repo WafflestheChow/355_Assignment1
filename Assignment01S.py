@@ -26,7 +26,7 @@ def run_server(port):
 
     # Next, bind to the port, but no IP so we can listen to requests from anywhere
     s.bind(('', port))
-    print("socket binded to %s" % (port))
+    print("socket bound to %s" % port)
 
     # put the socket into listening mode
     s.listen(5)
@@ -39,7 +39,7 @@ def run_server(port):
         print('Got connection from', addr)
 
         # send a “Thank You” message to the client.
-        c.send('Thank you for connecting WaffleChungus'.encode())
+        c.send('Thank you for connecting'.encode())
 
         # Close the connection with the client
         c.close()

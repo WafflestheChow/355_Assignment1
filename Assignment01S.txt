@@ -1,0 +1,4 @@
+C:\Users\NickT\Documents\PyCharm\355_Assignment1\.venv\Scripts\python.exe C:\Users\NickT\Documents\PyCharm\355_Assignment1\Assignment01S.py
+Socket successfully created
+socket binded to 12345
+socket is listening

@@ -1,0 +1,16 @@
+C:\Users\NickT\Documents\PyCharm\355_Assignment1\.venv\Scripts\python.exe C:\Users\NickT\Documents\PyCharm\355_Assignment1\Assignment01C.py
+Your Computer Name is: WaffleChungus
+Your Computer IP Address is: 192.168.1.205
+Your Computer IP Address in Binary is:  11000000101010000000000111001101 32
+Your Computer IP Address is in Class:  C
+The port number is 125 and the port type is Well Known
+Socket successfully created
+the socket has successfully connected to www.google.com on port 80
+"Together we will stand, every boy, girl, woman, and man..."
+
+
+60312 24-01-03 02:11:38 00 0 0 407.8 UTC(NIST) *
+
+Thank you for connecting
+
+Process finished with exit code 0
