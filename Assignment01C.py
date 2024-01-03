@@ -151,7 +151,7 @@ def get_host_info():
 
 def main():
     get_host_info()
-    connect_to_server("www.google.com", 80)  # Web site
+    connect_to_server("www.google.com", 80)  # Web server
     connect_to_server_v2("djxmmx.net", 17)  # Quote of the Day
     connect_to_server_v2("ntp-b.nist.gov", 13)  # Date Time
     connect_to_server_v2("192.168.1.205", 12345)  # Self Hosted Server
